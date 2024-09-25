@@ -8,7 +8,7 @@ if (isset($_POST['email'])) {
 
 // Define subject and recipient
 $subject = "Form Submission";
-$recipient = "daniel@byol.ie";
+$recipient = "pnmohamedniyas26726@gmail.com";
 $content = "From: $name";
 $mailheader = "From: $email \r\n";
 
